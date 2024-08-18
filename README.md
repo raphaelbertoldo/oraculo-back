@@ -3,6 +3,7 @@
 </p>
 
 # Oráculo Beats API 🎹
+Swagger Docs: http://localhost:8080/docs/
 
 ## Overview
   
