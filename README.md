@@ -7,13 +7,13 @@
 ## Overview
   
 
-This is a NestJS API for Oráculo Beats, providing CRUD endpoints of beats (tracks instrumentals).
+This is a NestJS API for Oráculo Beats, providing CRUD endpoints for beats (instrumentals tracks).
 
 ### Prerequisites
-Shoulded ideal use Node.js v20x
+It is recommended to use Node.js v20.x.
 
 ## Configuration
-This project need configure a .env file like .env.exemple, add the MONGO_DB URI to connect a mongodb instance.
+This project requires a .env file configured like .env.example.
 
 ## Run 
  To run this project, first install the dependencies:
